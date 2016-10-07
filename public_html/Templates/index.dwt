@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Triple R Contractor</title>
+<!-- TemplateEndEditable -->
+    <meta name="google-site-verification" content="GE3y_cEnqfud9m64b7-h8QVJQQFsszGa6_pXJtK3GuQ" />
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1" />
+	<meta name="keywords" content="home improvement services, general contractor, roofing contractor" />
+	<meta name="description" content="Twincities general contractor services" />
+	<link href="../style.css" rel="stylesheet" type="text/css" />
+    <!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+    <style type="text/css">
+<!--
+.style1 {color: #FFFF00}
+-->
+    </style>
+</head>
+
+<body>
+	<div id="container">
+		<div id="header">
+			<h1 >V&amp;D Construction</h1>
+		    <h2 >Residential and Commercial Services</h2>
+            <h3 >Licensed and Insured, MN Lic# BC703093</h3>
+	  </div>
+<ul id="nav">
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../services.html">Services</a></li>
+          <li><a href="../cprojects.html">Projects</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+                
+	  </ul>
+		<div id="sidebar">
+			<div>
+				<h3><u>Current projects</u></h3>
+			<p>Check out our current and new projects  <a href="../cprojects.html"><strong>here!</strong></a></p>
+                
+		  </div>
+			<div>
+			  <h3><u>Previous  projects </u></h3>
+			    <p>See photo  example of our works <a href="../prosample.html"><strong>here!</strong></a></p>
+		  </div>			
+
+          
+							
+		</div>
+		<div id="content"><!-- TemplateBeginEditable name="EditRegion3" -->
+		  <div>
+		    <h3 >&nbsp;</h3>
+        </div>
+		  <div></div>
+		<!-- TemplateEndEditable --></div>	
+  <div id="footer">
+			Copyright © 2016. vdconstructionmn.com, All Rights Reserved.</div>
+</div>
+</body>
+</html>
