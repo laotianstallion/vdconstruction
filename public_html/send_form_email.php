@@ -6,8 +6,7 @@ if(isset($_POST['submit'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
 
-    $email_to = "rudy.phaxay@gmail.com";
-    // $email_to = "dindin247@gmail.com";
+    $email_to = "dindin247@gmail.com";
 
     $email_subject = "Email from Triple R Website";
     // echo $email_subject;
@@ -48,6 +47,10 @@ if(isset($_POST['submit'])) {
 
         died('We are sorry, but there appears to be a problem with the form you submitted.');
 
+    }
+
+    if(!isset($_POST['robot'])) {
+        died('Please verify that you are not a robot.');
     }
 
 
